@@ -1,1 +1,1 @@
-print("namaste karnataka")
+print("namaste karnataka and indians") 
