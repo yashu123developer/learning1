@@ -9,4 +9,4 @@ while True:
     print("digital value read from sensor:",int(value*1023))
 
 
-    time.sleep(1)  
+    time.sleep(5)  

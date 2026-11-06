@@ -10,4 +10,4 @@ while True:
     else:
         print("buzzer off -object for away")
 
-        time.sleep(1)
+        time.sleep(4)
